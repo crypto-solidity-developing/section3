@@ -13,11 +13,19 @@
     "ganache-cli": "^6.12.2",
     "mocha": "^9.1.2",
     "solc": "^0.4.17",
-    "web3": "^1.6.0"
+    "web3": "^1.7.3"
   },
   "directories": {
     "test": "test"
   },
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williammaimba00/solidity-section3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/williammaimba00/solidity-section3/issues"
+  },
+  "homepage": "https://github.com/williammaimba00/solidity-section3#readme",
   "description": ""
 }
